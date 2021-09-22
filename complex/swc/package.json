@@ -1,0 +1,13 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "swc src -d lib"
+  },
+  "devDependencies": {
+    "@swc/cli": "^0.1.50",
+    "@swc/core": "^1.2.89"
+  }
+}
