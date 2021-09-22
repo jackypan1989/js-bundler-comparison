@@ -1,0 +1,12 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "esbuild src/index.js --bundle --outfile=lib/index.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.12.29"
+  }
+}
