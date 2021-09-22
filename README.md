@@ -1,5 +1,5 @@
 # js-bundler-comparison
-Comparison between three trending JS/TS bundlers.
+Speed comparison between three trending JS/TS bundlers.
 
 - babel (https://babeljs.io/) <img src="https://img.shields.io/npm/dm/@babel/core.svg">
 - esbuild (https://esbuild.github.io/) <img src="https://img.shields.io/npm/dm/esbuild.svg">
