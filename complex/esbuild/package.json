@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "esbuild src/index.js --bundle --outfile=lib/index.js"
+    "build": "esbuild src/index.js --bundle --outdir=./lib"
   },
   "devDependencies": {
     "esbuild": "^0.12.29"
