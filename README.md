@@ -28,4 +28,4 @@ Experiments: 10 results of average
 | cra | esbuild | 3858 |
 | cra | swc | 3896 |
 
-Thanks to effective languages with hefty parallelism like Go (esbuild) and Rust (swc), you can get 10x up speed increase on your mult-core machine.
+We can see huge improvement when you need large files transformation. In CRA case, it doesn't contain too much JS/JSX code lead to fewer improvement. In  complex case, thanks to effective languages with hefty parallelism like Go (esbuild) and Rust (swc), you can get 10x up speed increase on your multi-core machine.
