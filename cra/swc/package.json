@@ -147,5 +147,9 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "@swc/core": "^1.2.89",
+    "swc-loader": "^0.1.15"
   }
 }

@@ -147,5 +147,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "esbuild-loader": "^2.15.1"
   }
 }
