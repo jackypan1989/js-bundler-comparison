@@ -1,0 +1,4 @@
+(() => {
+  // src/276.js
+  var __default = example = 0;
+})();
